@@ -1,1 +1,0 @@
-# Factores-de-comportamiento-NovaRetail-
