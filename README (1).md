@@ -29,8 +29,9 @@ Se utilizó un dataset de **usuarios** con **15,000 registros** y **12 columnas*
 - Identificar limitaciones del análisis y próximos pasos
 
 ## 🔎 Principales hallazgos
-
+![Diagrama de dispersión 1](images/scatterplot2.png)
 - Existe una correlación positiva moderada entre `gasto_publicidad_dirigida` y `visitas_mes` (Pearson: 0.58, Spearman: 0.56).
+![Diagrama de dispersión 2](images/scatterplot1.png)
 - Existe una correlación positiva débil entre `visitas_mes` e `ingreso_anual` (Pearson: 0.34, Spearman: 0.32).
 - `compras_mes` e `ingreso_anual` muestran una correlación positiva alta, pero se descarta como hallazgo principal por posible colinealidad (compras × precio promedio ≈ ingreso).
 - Las variables binarias (`miembro_premium`, `abandono`) y categóricas (`tipo_dispositivo`, `region`) muestran relaciones débiles con `ingreso_anual`.
