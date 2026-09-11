@@ -10,12 +10,12 @@ Se utilizó un dataset de **usuarios** con **15,000 registros** y **12 columnas*
 
 ## ▶ Cómo abrir el notebook en Google Colab
 
-1. Abre el archivo `.ipynb` en GitHub
+1. Abre el archivo `NovaRetail_Customer_Behavior_Analysis.ipynb` en GitHub
 2. Haz clic en **Open in Colab**
 
 ## 📘 Cómo reproducir el análisis
 
-1. Abre `notebooks/S8_Student_Version-Project-NovaRetail.ipynb`
+1. Abre `NovaRetail_Customer_Behavior_Analysis.ipynb`
 2. Ejecuta las celdas en orden
 3. El notebook carga automáticamente el dataset desde `/data/` o desde un enlace público (según corresponda)
 
