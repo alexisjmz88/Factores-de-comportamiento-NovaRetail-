@@ -1,6 +1,6 @@
-# NovaRetail+ Analysis – Sprint 8
+# Análisis de comportamiento de clientes en NovaRetail+
 
-Este repositorio contiene el análisis realizado durante el Sprint 8 del caso NovaRetail+.
+Este repositorio contiene el análisis realizado a un caso práctico con datos de ventas de una empresa de comercio electrónico.
 
 El objetivo de este proyecto fue explorar los factores del comportamiento del cliente en la plataforma de comercio electrónico NovaRetail+ para responder a la pregunta del equipo de Crecimiento y Retención: **¿qué factores del comportamiento del cliente están más fuertemente asociados con el ingreso anual generado?**
 
